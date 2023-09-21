@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "esp32-blink",
+			"path": "../../Users/Tosh7/micropython/esp32-blink"
+		},
+		{
+			"name": "esp32-blink",
+			"path": "."
+		}
+	]
+}
